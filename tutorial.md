@@ -3,10 +3,10 @@ This file contains simple hints and references for markdown, to save time search
 # How to create titles?
 
 One way is by adding *#* followed by space before the text
-'''
+```markdown
 ## Subtitle (H2)
 ### H3 
-'''
+```
 Title
 =====
 How to create bulletin?
