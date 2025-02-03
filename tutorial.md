@@ -12,7 +12,7 @@ Title
 =====
 How to create bulletin?
 
-[!NOTE]
+> [!NOTE]
 How to add link and the associated text
 
 
