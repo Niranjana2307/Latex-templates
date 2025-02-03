@@ -4,7 +4,7 @@ This file contains simple hints and references for markdown, to save time search
 
 One way is by adding *#* followed by space before the text
 
-```markdown //f
+```markdown 
 ## Subtitle (H2)
 ### H3 
 ```
@@ -12,7 +12,7 @@ Title
 =====
 How to create bulletin?
 
-
+[!NOTE]
 How to add link and the associated text
 
 
