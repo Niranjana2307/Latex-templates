@@ -1,18 +1,8 @@
-This file contains simple hints and references for markdown, to save time searching the internet. 
-
-# How to create titles?
-
-One way is by adding *#* followed by space before the text
-
-```markdown 
-## Subtitle (H2)
-### H3 
-```
-Title
-=====
-How to create bulletin?
+This file contains some useful links for markdown references
 
 > [!NOTE]
-> How to add link and the associated text
+> These lists are taken from
+> https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README.md
+> 
 
 
