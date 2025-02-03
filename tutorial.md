@@ -13,6 +13,6 @@ Title
 How to create bulletin?
 
 > [!NOTE]
-How to add link and the associated text
+> How to add link and the associated text
 
 
